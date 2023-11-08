@@ -26,4 +26,3 @@ Working copy (Workstation/pc)
 
 Repository - special location where git lock all the codes in a secret location 
 
-Git and GitHub
