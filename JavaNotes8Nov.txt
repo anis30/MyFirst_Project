@@ -26,3 +26,23 @@ Working copy (Workstation/pc)
 
 Repository - special location where git lock all the codes in a secret location 
 
+git status - On branch master nothing to commit, working tree clean
+
+git commit - On branch master nothing to commit, working tree clean
+git add JavaNotes8Nov.txt 
+
+git commit - [master 3ada58d] 2nd commit
+ 1 file changed, 1 deletion(-)
+
+git log
+commit 3ada58d76c394ed1238248f8c3624d5cb6e99d22 (HEAD -> master)
+Author: Anis Alisha <anisalisha12@gmail.com>
+Date:   Wed Nov 8 18:16:23 2023 +0800
+
+    2nd commit
+
+commit 9e02fe2038accce6f4c0e43fc6bf94807cb8ece8
+Author: Anis Alisha <anisalisha12@gmail.com>
+Date:   Wed Nov 8 15:38:18 2023 +0800
+
+    My first commit
