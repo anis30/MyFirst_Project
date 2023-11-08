@@ -1,0 +1,29 @@
+Java Training Day 28 (Monday 8/11/2023)
+
+How do you manage version control?
+
+Centralized Version Control (What if the server down?)
+
+Repository (central server)
+       |
+commit | update
+       |
+Working copy (Workstation/pc)
+
+
+Distributed Version Control 
+
+Repository (Central Server)(Github)
+       |
+ pull  | push
+       |
+Repository (local repo)(Git)
+       |
+commit | update
+       |
+Working copy (Workstation/pc)
+
+
+Repository - special location where git lock all the codes in a secret location 
+
+Git and GitHub
