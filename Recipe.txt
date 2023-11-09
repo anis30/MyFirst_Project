@@ -5,11 +5,7 @@ Fried Rice
 Boba Tea
 Cheese Naan
 Buttercream Latte
-<<<<<<< HEAD
-Garlic Bread
-Italian Pasta 
-=======
 Chocolate Ice Cream
 Croissant
 Donuts
->>>>>>> 5e87a1de4958c29624b4865bf0f817aa71a4a2b7
+
